@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/asrama-alfi-dua/',  // ← nama repo kamu
+  base: '/alfi-dua-residence-manager/',  // ← nama repo kamu
 })
